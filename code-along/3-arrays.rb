@@ -2,9 +2,24 @@
 # is the same as where this file is located and then run:
 # ruby 3-arrays.rb
 
+
+favorite_foods = ["tacos", "ice cream", "kale"]
+p favorite_foods
+
+mixed_array = ["tacos", 12, true]
+p mixed_array
+
 # Arrays are lists of things
 
+
 # Accessing the array
+
+shopiing_list = ["coffee", "baby wipes", "diapers", "beer"]
+p shopiing_list[-2]
+
+shopiing_list.push "bath toys"
+p shopiing_list
+
 
 # Add to the array
 
